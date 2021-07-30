@@ -8,20 +8,39 @@
 	color:#ff5959;
 	font-size:70px;
 	font-weight:bold;
+	line-height:60px;
 }
 #heading #image img{
 	border:2px solid;
 }
 /*Colors */
-#FirstBox #FirstSubBox #girl,#FourthBox #Juice img,#SixthBox img,#SecondBox *,#SeventhBox #PhysicalActivity *,#SeventhBox #PhysicalActivity,#FourthBox #FrenchFries *,#FourthBox #FrenchFries
+#SecondBox *,#SeventhBox #PhysicalActivity *,#SeventhBox #PhysicalActivity,#FourthBox #FrenchFries *,#FourthBox #FrenchFries
 {
 	background-color:#ff5959;
 }
-#FirstSubBox *,#FirstSubBox,#FrenchFries img,#Juice *,#Juice,#SixthBox,#SixthBox *
+#FirstSubBox *,#FirstSubBox,#FrenchFries img,#Juice *,#Juice,#SixthBox *
 {
 	background-color:#ff9e1b;
 }
 #SecondSubBox *,#SecondSubBox,#ThirdBox *,#FifthBox *,#MoneyInfo,#MoneyInfo *
 {
  background-color:#56c1e7;
-}	
+}
+
+/*Font Style */
+.big-font{
+	font-weight:bold;
+	font-size:59px;
+	word-break: break-word;
+}
+.small-font{
+	font-weight:bold;
+	font-size: 29px;
+	word-break: break-word;
+}
+.regular-font{
+	font-size:19px;
+}
+.line-style{
+	line-height:36px;
+}
